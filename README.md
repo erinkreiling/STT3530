@@ -13,3 +13,4 @@
 *I'm Erin    
 *I'm not Erin     
 * I am Erin
+* No i QM NOT
